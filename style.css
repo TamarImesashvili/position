@@ -1,0 +1,16 @@
+.parent {
+    width: 686px;
+    height: 464px;
+    top: 9px;
+    left: 9px;
+    background-color: rgba(0, 25, 249, 1);
+
+}
+.child {
+    width: 253px;
+    height: 190px;
+    background-color: rgba(248, 3, 3, 1);
+    top: 274px;
+    left: 433px;
+    position: relative;
+}
